@@ -185,3 +185,48 @@ Total time taken: 51.304s
 12:42:28.473 Scenarios:	2 executed	1 passed	1 failed	0 skipped
 12:42:28.473 
 Total time taken: 50.564s
+15:00:30.492 Plugin java is already installed.
+15:00:30.499 Plugin html-report is already installed.
+15:00:32.164 Checking updates...
+15:00:37.718 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+15:00:37.719 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+15:00:37.727 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+15:00:37.727 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+15:00:37.728 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+15:00:37.728 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+15:01:32.351 Plugin [Html Report] with pid [8796] has exited
+15:01:32.834 Closing connection [127.0.0.1:55445] cause: read tcp 127.0.0.1:55438->127.0.0.1:55445: wsarecv: An existing connection was forcibly closed by the remote host.
+15:01:32.955 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:01:32.955 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+15:01:32.955 
+Total time taken: 51.903s
+15:06:41.570 Plugin java is already installed.
+15:06:41.571 Plugin html-report is already installed.
+15:06:43.105 Checking updates...
+15:06:47.907 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+15:06:47.908 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+15:06:47.917 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+15:06:47.917 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+15:06:47.919 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+15:06:47.919 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+15:07:36.260 Plugin [Html Report] with pid [22464] has exited
+15:07:36.755 Closing connection [127.0.0.1:55586] cause: read tcp 127.0.0.1:55582->127.0.0.1:55586: wsarecv: An existing connection was forcibly closed by the remote host.
+15:07:36.965 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:07:36.965 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+15:07:36.965 
+Total time taken: 45.923s
+23:21:37.109 Plugin html-report is already installed.
+23:21:37.117 Plugin java is already installed.
+23:21:38.651 Checking updates...
+23:21:42.949 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+23:21:42.950 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+23:21:42.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+23:21:42.960 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+23:21:42.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+23:21:42.960 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+23:22:34.181 Plugin [Html Report] with pid [1476] has exited
+23:22:34.679 Closing connection [127.0.0.1:61623] cause: read tcp 127.0.0.1:61616->127.0.0.1:61623: wsarecv: An existing connection was forcibly closed by the remote host.
+23:22:34.888 Specifications:	1 executed	0 passed	1 failed	0 skipped
+23:22:34.888 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+23:22:34.888 
+Total time taken: 49.015s

@@ -50,24 +50,16 @@
             <version>0.6.8</version>
             <scope>test</scope>
         </dependency>
+
+
+
         <dependency>
             <groupId>com.thoughtworks.gauge</groupId>
             <artifactId>gauge-java</artifactId>
-            <version>0.6.8</version>
-            <scope>test</scope>
+            <version>0.7.1</version>
         </dependency>
-        <dependency>
-            <groupId>com.thoughtworks.gauge</groupId>
-            <artifactId>gauge-java</artifactId>
-            <version>0.6.8</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.thoughtworks.gauge</groupId>
-            <artifactId>gauge-java</artifactId>
-            <version>0.6.8</version>
-            <scope>test</scope>
-        </dependency>
+
+
         <dependency>
             <groupId>mx4j</groupId>
             <artifactId>mx4j</artifactId>
@@ -78,12 +70,6 @@
             <groupId>mx4j</groupId>
             <artifactId>mx4j</artifactId>
             <version>3.0.1</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.thoughtworks.gauge</groupId>
-            <artifactId>gauge-java</artifactId>
-            <version>0.6.8</version>
             <scope>test</scope>
         </dependency>
 

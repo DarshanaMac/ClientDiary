@@ -1094,3 +1094,24 @@
 12:09:10.697 Spec file added / modified: E:\Local_Drive\Automation\Contributor\gauge\gauge-01\specs\example.spec
 12:31:26.866 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Take a screenshot with the name <pictureName>." > 
 12:31:26.867 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Take a screenshot with the name {}." parameterizedStepValue:"Take a screenshot with the name <pictureName>." parameters:"pictureName" > > 
+12:49:29.013 Watching directory: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs
+12:49:29.016 Found 1 files
+12:49:29.026 Initializing concepts cache with 0 concepts
+12:49:29.027 Initializing specs cache with 1 specs
+12:49:29.027 Adding specs from E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+12:49:29.027 Initializing steps cache with 1 steps
+12:49:29.027 Gauge daemon initialized and listening on port: 54219
+12:49:48.925 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+12:49:48.926 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+12:49:57.084 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+12:49:57.084 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+12:49:57.194 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+12:49:57.194 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+12:50:54.304 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+12:50:54.306 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+14:12:22.544 Unable to send analytics data, timed out
+15:00:00.891 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+15:00:00.892 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+15:06:18.987 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+15:06:18.989 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+22:37:30.617 Unable to send analytics data, timed out

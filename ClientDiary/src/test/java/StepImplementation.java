@@ -1,3 +1,4 @@
+import com.thoughtworks.gauge.Gauge;
 import com.thoughtworks.gauge.Step;
 import com.thoughtworks.gauge.Table;
 import com.thoughtworks.gauge.TableRow;
@@ -6,7 +7,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import com.thoughtworks.gauge.screenshot.*;
 import java.util.HashSet;
+import com.thoughtworks.gauge.screenshot.CustomScreenshotScanner;
 
+import static com.thoughtworks.gauge.Gauge.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class StepImplementation {
@@ -45,8 +48,10 @@ public class StepImplementation {
         driver.findElement(By.cssSelector("#RegistrationForm>fieldset:nth-of-type(2)>div:nth-of-type(3)>input")).sendKeys("User@123");
         driver.findElement(By.cssSelector(" #RegistrationForm>fieldset:nth-of-type(2)>div:nth-of-type(4)>input")).sendKeys("User");
         driver.findElement(By.cssSelector(" #oodo")).click();
-
-        driver.quit();
+        Gauge.captureScreenshot();
+        driver.close();
     }
+
+
 
 }
