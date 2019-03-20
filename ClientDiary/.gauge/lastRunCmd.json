@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"E:/Local_Drive/Automation/Contributor/ClientDiary/ClientDiary/specs/example.spec"
+]

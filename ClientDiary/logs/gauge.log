@@ -1,0 +1,187 @@
+14:20:48.424 Plugin java is already installed.
+14:20:48.432 Plugin html-report is already installed.
+14:20:49.694 Checking updates...
+14:20:54.153 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+14:20:54.157 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:20:54.158 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+14:20:54.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:20:54.163 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+14:20:54.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:20:55.104 # Specification Heading
+14:20:55.107 ## Vowel counts in single word
+14:20:55.109 * Vowels in English language are "aeiou".
+
+14:20:55.120 * The word "gauge" has "3" vowels.
+
+14:20:55.156 ## Vowel counts in multiple word
+14:20:55.157 * Vowels in English language are "aeiou".
+
+14:20:55.158 * Almost all words have vowels 
+
+   |Word  |Vowel Count|
+   |------|-----------|
+   |Gauge |3          |
+   |Mingle|2          |
+   |Snap  |1          |
+   |GoCD  |1          |
+   |Rhythm|0          |
+14:20:55.771 Plugin [Html Report] with pid [10308] has exited
+14:20:55.777 Closing connection [127.0.0.1:58549] cause: read tcp 127.0.0.1:58542->127.0.0.1:58549: wsarecv: An existing connection was forcibly closed by the remote host.
+14:20:55.872 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:20:55.872 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+14:20:55.872 
+Total time taken: 152ms
+14:30:56.690 Plugin java is already installed.
+14:30:56.734 Plugin html-report is already installed.
+14:30:59.226 Checking updates...
+14:31:04.629 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+14:31:04.629 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:31:04.636 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+14:31:04.636 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:31:04.636 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+14:31:04.637 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+11:22:41.158 Plugin java is already installed.
+11:22:41.167 Plugin html-report is already installed.
+11:22:41.214 [ParseError] E:\Local_Drive\Automation\Contributor\gauge\gauge-01\specs\example.spec:1 Spec should have atleast one scenario => ''
+11:22:42.940 Checking updates...
+11:22:47.791 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome browser and navigate to google" > 
+11:22:47.791 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome browser and navigate to google" parameterizedStepValue:"Open Chrome browser and navigate to google" > > 
+11:22:50.167 Plugin [Html Report] with pid [21156] has exited
+11:22:50.177 Closing connection [127.0.0.1:51723] cause: read tcp 127.0.0.1:51716->127.0.0.1:51723: wsarecv: An existing connection was forcibly closed by the remote host.
+11:22:50.368 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:22:50.368 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+11:22:50.368 
+Total time taken: 285ms
+11:24:11.158 Plugin html-report is already installed.
+11:24:11.164 Plugin java is already installed.
+11:24:13.560 Checking updates...
+11:24:16.371 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome browser and navigate to google" > 
+11:24:16.371 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome browser and navigate to google" parameterizedStepValue:"Open Chrome browser and navigate to google" > > 
+11:24:16.377 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+11:24:16.377 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+11:24:16.378 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+11:24:16.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+11:24:16.378 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+11:24:16.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+11:25:04.606 Plugin [Html Report] with pid [2256] has exited
+11:25:04.950 Closing connection [127.0.0.1:51741] cause: read tcp 127.0.0.1:51737->127.0.0.1:51741: wsarecv: An existing connection was forcibly closed by the remote host.
+11:25:05.110 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:25:05.110 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+11:25:05.110 
+Total time taken: 46.329s
+11:26:16.694 Plugin java is already installed.
+11:26:16.698 Plugin html-report is already installed.
+11:26:18.011 Checking updates...
+11:26:21.932 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome browser and navigate to google" > 
+11:26:21.933 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome browser and navigate to google" parameterizedStepValue:"Open Chrome browser and navigate to google" > > 
+11:26:21.939 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+11:26:21.939 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+11:26:21.939 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+11:26:21.939 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+11:26:21.940 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+11:26:21.940 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+11:30:24.887 Plugin java is already installed.
+11:30:24.888 Plugin html-report is already installed.
+11:30:28.138 Checking updates...
+11:30:30.047 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome browser and navigate to Shavorshop App" > 
+11:30:30.047 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome browser and navigate to Shavorshop App" parameterizedStepValue:"Open Chrome browser and navigate to Shavorshop App" > > 
+11:30:30.055 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+11:30:30.055 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+11:30:30.056 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+11:30:30.056 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+11:30:30.057 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+11:30:30.057 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+11:30:30.057 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+11:30:30.057 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+11:31:14.702 Plugin [Html Report] with pid [19840] has exited
+11:31:15.049 Closing connection [127.0.0.1:51929] cause: read tcp 127.0.0.1:51926->127.0.0.1:51929: wsarecv: An existing connection was forcibly closed by the remote host.
+11:31:15.206 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:31:15.206 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:31:15.206 
+Total time taken: 42.705s
+12:04:44.239 Plugin java is already installed.
+12:04:44.250 Plugin html-report is already installed.
+12:04:49.452 Checking updates...
+12:04:50.401 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+12:04:50.401 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+12:04:50.410 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Chrome browser and navigate to Shavorshop App" > 
+12:04:50.410 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Chrome browser and navigate to Shavorshop App" parameterizedStepValue:"Open Chrome browser and navigate to Shavorshop App" > > 
+12:04:50.410 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+12:04:50.410 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+12:04:50.411 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+12:04:50.411 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+12:05:28.916 Plugin java is already installed.
+12:05:28.921 Plugin html-report is already installed.
+12:05:30.337 Checking updates...
+12:05:34.991 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+12:05:34.992 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+12:05:34.999 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+12:05:34.999 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+12:05:34.999 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+12:05:34.999 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+12:06:31.889 Plugin [Html Report] with pid [5432] has exited
+12:06:32.237 Closing connection [127.0.0.1:52823] cause: read tcp 127.0.0.1:52819->127.0.0.1:52823: wsarecv: An existing connection was forcibly closed by the remote host.
+12:06:32.393 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:06:32.393 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+12:06:32.393 
+Total time taken: 54.701s
+12:07:39.908 Plugin java is already installed.
+12:07:39.911 Plugin html-report is already installed.
+12:07:41.314 Checking updates...
+12:07:45.683 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+12:07:45.683 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+12:07:45.691 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+12:07:45.691 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+12:07:45.691 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+12:07:45.691 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+12:08:42.415 Plugin [Html Report] with pid [11268] has exited
+12:08:42.422 Closing connection [127.0.0.1:52959] cause: read tcp 127.0.0.1:52955->127.0.0.1:52959: wsarecv: An existing connection was forcibly closed by the remote host.
+12:08:42.617 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:08:42.617 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+12:08:42.617 
+Total time taken: 54.606s
+12:09:23.471 Plugin java is already installed.
+12:09:23.473 Plugin html-report is already installed.
+12:09:25.250 Checking updates...
+12:09:30.622 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+12:09:30.622 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+12:09:30.632 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+12:09:30.632 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+12:09:30.632 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+12:09:30.632 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+12:10:19.236 Plugin [Html Report] with pid [21296] has exited
+12:10:19.585 Closing connection [127.0.0.1:53087] cause: read tcp 127.0.0.1:53081->127.0.0.1:53087: wsarecv: An existing connection was forcibly closed by the remote host.
+12:10:19.739 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:10:19.739 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+12:10:19.739 
+Total time taken: 45.899s
+12:12:15.295 Plugin java is already installed.
+12:12:15.298 Plugin html-report is already installed.
+12:12:16.953 Checking updates...
+12:12:22.072 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+12:12:22.072 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+12:12:22.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+12:12:22.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+12:12:22.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+12:12:22.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+12:13:15.793 Plugin [Html Report] with pid [22500] has exited
+12:13:16.289 Closing connection [127.0.0.1:53286] cause: read tcp 127.0.0.1:53281->127.0.0.1:53286: wsarecv: An existing connection was forcibly closed by the remote host.
+12:13:16.498 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:13:16.498 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:13:16.498 
+Total time taken: 51.304s
+12:41:27.517 Plugin java is already installed.
+12:41:27.519 Plugin html-report is already installed.
+12:41:29.365 Checking updates...
+12:41:34.797 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+12:41:34.799 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+12:41:34.813 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+12:41:34.813 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+12:41:34.814 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+12:41:34.815 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+12:42:27.767 Plugin [Html Report] with pid [13732] has exited
+12:42:28.262 Closing connection [127.0.0.1:54017] cause: read tcp 127.0.0.1:54011->127.0.0.1:54017: wsarecv: An existing connection was forcibly closed by the remote host.
+12:42:28.473 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:42:28.473 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:42:28.473 
+Total time taken: 50.564s
