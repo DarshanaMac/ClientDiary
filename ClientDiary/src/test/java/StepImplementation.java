@@ -15,8 +15,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class StepImplementation {
     WebDriver driver = new ChromeDriver();
 
-
-
     @Step("Create User  profile")
     public void CreateProfile() {
         driver.navigate().to("https://Storefront:shaver123@development-web-shavershop.demandware.net/s/Shaver_Shop_au/register");
@@ -37,7 +35,6 @@ public class StepImplementation {
     }
 
     @Step("Create User  profile with IncorrectData")
-
     public void CreateProfileInvalid() {
         driver.navigate().to("https://Storefront:shaver123@development-web-shavershop.demandware.net/s/Shaver_Shop_au/register");
         driver.manage().window().maximize();
@@ -49,9 +46,6 @@ public class StepImplementation {
         driver.findElement(By.cssSelector(" #RegistrationForm>fieldset:nth-of-type(2)>div:nth-of-type(4)>input")).sendKeys("User");
         driver.findElement(By.cssSelector(" #oodo")).click();
         Gauge.captureScreenshot();
-        driver.close();
+        driver.quit();
     }
-
-
-
 }

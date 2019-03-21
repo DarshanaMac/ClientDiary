@@ -1115,3 +1115,44 @@
 15:06:18.987 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
 15:06:18.989 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
 22:37:30.617 Unable to send analytics data, timed out
+18:38:02.122 Watching directory: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs
+18:38:02.124 Found 1 files
+18:38:02.133 Initializing concepts cache with 0 concepts
+18:38:02.138 Initializing specs cache with 1 specs
+18:38:02.139 Adding specs from E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+18:38:02.139 Initializing steps cache with 1 steps
+18:38:02.139 Gauge daemon initialized and listening on port: 50650
+18:38:24.583 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to Product Details Page" > 
+18:38:24.584 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to Product Details Page" parameterizedStepValue:"Navigate to Product Details Page" > > 
+18:38:24.977 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile with IncorrectData" > 
+18:38:24.977 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile with IncorrectData" parameterizedStepValue:"Create User  profile with IncorrectData" > > 
+18:38:25.270 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Create User  profile" > 
+18:38:25.270 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Create User  profile" parameterizedStepValue:"Create User  profile" > > 
+19:40:44.266 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Test1.spec
+19:40:44.269 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Test1.spec
+19:40:44.272 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Test1.spec
+20:17:31.346 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+20:17:31.347 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+20:30:03.631 Unable to send analytics data, timed out
+20:37:53.733 Watching directory: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo
+20:37:53.734 Found 0 files
+20:38:02.837 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\example.spec
+20:38:02.837 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:08.678 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:08.679 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:08.708 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:08.709 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:08.737 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:08.738 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:20.697 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:20.698 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:20.867 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:20.868 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:33.099 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:33.101 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:33.230 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:33.230 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:35.068 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:00:35.069 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:01:12.779 Spec file removed: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec
+21:01:12.779 Spec file added / modified: E:\Local_Drive\Automation\Contributor\ClientDiary\ClientDiary\specs\Demo\example.spec

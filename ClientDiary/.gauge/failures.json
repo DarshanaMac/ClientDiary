@@ -6,6 +6,6 @@
 		"--simple-console"
 	],
 	"FailedItems": [
-		"specs\\example.spec:14"
+		"specs\\Demo\\example.spec:14"
 	]
 }
